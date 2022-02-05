@@ -15,8 +15,8 @@
  * @wordpress-plugin
  * Plugin Name:       Finegap Web Development
  * Plugin URI:        https://cubixsol.com/
- * Description:       This is a custom plugin, Finegap :)  
- * Version:           1.0.0
+ * Description:       This is a custom plugin, Finegap :)  finegap
+ * Version:           2.0.0
  * Author:            Noman Ghaffar
  * Author URI:        https://cubixsol.com/
  * License:           GPL-2.0+
