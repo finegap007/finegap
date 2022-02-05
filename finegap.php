@@ -9,14 +9,14 @@
  * that starts the plugin.
  *
  * @link              https://cubixsol.com/
- * @since             2.0.0
+ * @since             1.0.0
  * @package           cubixsol
  *
  * @wordpress-plugin
  * Plugin Name:       Finegap Web Development
  * Plugin URI:        https://cubixsol.com/
  * Description:       This is a custom plugin, Finegap :)  
- * Version:           1.0.0
+ * Version:           2.0.0
  * Author:            Noman Ghaffar
  * Author URI:        https://cubixsol.com/
  * License:           GPL-2.0+
